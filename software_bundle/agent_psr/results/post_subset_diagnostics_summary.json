@@ -1,0 +1,42 @@
+{
+  "full_totals": {
+    "posts": 290251,
+    "comments": 1836711
+  },
+  "candidate_pool": {
+    "selected_submolts_count": 15,
+    "min_comment_count": 5,
+    "max_comment_count": 150,
+    "posts": 84451,
+    "comments": 1293017
+  },
+  "sampled_subset": {
+    "posts": 4434,
+    "comments": 50338,
+    "post_sampling_fraction_of_candidate_pool": 0.052503818782489255
+  },
+  "date_ranges": {
+    "candidate_posts_min": "2026-01-27 18:01:13.220848+00:00",
+    "candidate_posts_max": "2026-02-08 23:33:32.102660+00:00",
+    "sampled_posts_min": "2026-01-28 22:02:23.358718+00:00",
+    "sampled_posts_max": "2026-02-08 23:06:34.629665+00:00"
+  },
+  "comment_count_distribution": {
+    "candidate_quantiles": {
+      "0.1": 5.0,
+      "0.25": 6.0,
+      "0.5": 8.0,
+      "0.75": 12.0,
+      "0.9": 22.0
+    },
+    "sampled_quantiles": {
+      "0.1": 5.0,
+      "0.25": 6.0,
+      "0.5": 8.0,
+      "0.75": 11.0,
+      "0.9": 17.0
+    },
+    "candidate_mean": 15.06601461202354,
+    "sampled_mean": 10.99594046008119
+  }
+}
