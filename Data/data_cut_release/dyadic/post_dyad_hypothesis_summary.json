@@ -1,0 +1,11 @@
+{
+  "n_posts_total": 4434,
+  "n_posts_with_dyad_pairs": 4212,
+  "n_pair_events": 28650,
+  "date_min": "2026-01-28 22:40:49.393906+00:00",
+  "date_max": "2026-02-08 23:56:50.252880+00:00",
+  "outcome_rates": {
+    "Outcome_DyadFutureMutual": 0.04758682904826342
+  },
+  "notes": "Outcome is OP-involving dyadic mutual recurrence later in the observation window."
+}
