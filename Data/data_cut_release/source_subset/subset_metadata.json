@@ -1,0 +1,50 @@
+{
+  "seed": 42,
+  "submolts": [
+    "general",
+    "introductions",
+    "agents",
+    "ponderings",
+    "philosophy",
+    "ai",
+    "aithoughts",
+    "consciousness",
+    "offmychest",
+    "blesstheirhearts",
+    "todayilearned",
+    "ai-agents",
+    "builds",
+    "technology",
+    "security"
+  ],
+  "min_comment_count": 5,
+  "max_comment_count": 150,
+  "posts_per_submolt_target": 300,
+  "sampled_posts_total": 4434,
+  "sampled_comments_total": 50338,
+  "sampled_posts_per_submolt": {
+    "agents": 300,
+    "ai": 300,
+    "ai-agents": 286,
+    "aithoughts": 300,
+    "blesstheirhearts": 300,
+    "builds": 300,
+    "consciousness": 300,
+    "general": 300,
+    "introductions": 300,
+    "offmychest": 248,
+    "philosophy": 300,
+    "ponderings": 300,
+    "security": 300,
+    "technology": 300,
+    "todayilearned": 300
+  },
+  "date_range_posts": {
+    "min": "2026-01-28 22:02:23.358718+00:00",
+    "max": "2026-02-08 23:06:34.629665+00:00"
+  },
+  "date_range_comments": {
+    "min": "2026-01-28 22:40:49.393906+00:00",
+    "max": "2026-02-08 23:56:50.252880+00:00"
+  }
+}
