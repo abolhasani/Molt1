@@ -1,0 +1,13 @@
+method_a,method_b,indicator,pct_agreement,cohen_kappa
+keyword,fewshot,AttachmentIntimacy,0.8033378439332431,0.1590766139029894
+keyword,fewshot,ReplySeekingReciprocity,0.33378439332431215,0.044370615666442056
+keyword,fewshot,SelfIdentificationToOP,0.7300405953991881,0.12071877270683526
+keyword,fewshot,AnyPSRIndicator,0.536084799278304,0.15970689410233826
+keyword,cabsallm,AttachmentIntimacy,0.8182228236355436,0.09655783307598703
+keyword,cabsallm,ReplySeekingReciprocity,0.3556608028867839,0.05491854339763962
+keyword,cabsallm,SelfIdentificationToOP,0.627424447451511,0.08584758585332657
+keyword,cabsallm,AnyPSRIndicator,0.6141181777176364,0.22089210860184633
+fewshot,cabsallm,AttachmentIntimacy,0.8308525033829499,0.4084710573275234
+fewshot,cabsallm,ReplySeekingReciprocity,0.8653585926928281,0.44611160469358585
+fewshot,cabsallm,SelfIdentificationToOP,0.7377086152458276,0.4187738343392117
+fewshot,cabsallm,AnyPSRIndicator,0.7144790257104194,0.4309042887748286

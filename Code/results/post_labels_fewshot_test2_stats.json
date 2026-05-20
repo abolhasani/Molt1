@@ -1,0 +1,43 @@
+{
+  "method": "fewshot",
+  "model": "gpt-4.1-mini",
+  "started_at": "2026-02-27T19:52:12.636989+00:00",
+  "updated_at": "2026-02-27T19:52:52.932096+00:00",
+  "target_posts_total": 24,
+  "already_done_on_start": 0,
+  "calls": 3,
+  "successful_batches": 3,
+  "failed_batches": 0,
+  "prompt_tokens": 16295,
+  "completion_tokens": 1838,
+  "max_api_calls": 30,
+  "controller": {
+    "current_k": 8,
+    "ewma": 0.0,
+    "trace": [
+      {
+        "t": 1,
+        "k": 9,
+        "ewma": 0.0,
+        "fail": 0,
+        "near_limit": 0
+      },
+      {
+        "t": 2,
+        "k": 10,
+        "ewma": 0.0,
+        "fail": 0,
+        "near_limit": 0
+      },
+      {
+        "t": 3,
+        "k": 8,
+        "ewma": 0.0,
+        "fail": 0,
+        "near_limit": 0
+      }
+    ]
+  },
+  "completed": true,
+  "remaining_posts": 0
+}

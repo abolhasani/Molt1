@@ -1,0 +1,21 @@
+{
+  "n_posts_subset": 4434,
+  "n_comments_subset": 50338,
+  "n_unique_authors": 3903,
+  "n_unique_ops": 2158,
+  "n_submolts": 15,
+  "date_min": "2026-01-28 22:40:49.393906+00:00",
+  "date_max": "2026-02-08 23:56:50.252880+00:00",
+  "interaction_graph": {
+    "n_unique_directed_edges": 26703,
+    "n_mutual_directed_edges": 3764,
+    "mutual_edge_ratio": 0.1409579448002097,
+    "n_agents_in_interaction_graph": 4886
+  },
+  "depth_distribution": {
+    "0": 46632,
+    "1": 3599,
+    "2": 106,
+    "3": 1
+  }
+}

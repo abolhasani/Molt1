@@ -1,0 +1,43 @@
+{
+  "method": "cabsallm",
+  "model": "gpt-4.1-mini",
+  "started_at": "2026-02-27T19:53:30.880863+00:00",
+  "updated_at": "2026-02-27T19:54:03.262270+00:00",
+  "target_posts_total": 24,
+  "already_done_on_start": 0,
+  "calls": 3,
+  "successful_batches": 3,
+  "failed_batches": 0,
+  "prompt_tokens": 19755,
+  "completion_tokens": 1700,
+  "max_api_calls": 30,
+  "controller": {
+    "current_k": 13,
+    "ewma": 0.0,
+    "trace": [
+      {
+        "t": 1,
+        "k": 11,
+        "ewma": 0.0,
+        "fail": 0,
+        "near_limit": 0
+      },
+      {
+        "t": 2,
+        "k": 12,
+        "ewma": 0.0,
+        "fail": 0,
+        "near_limit": 0
+      },
+      {
+        "t": 3,
+        "k": 13,
+        "ewma": 0.0,
+        "fail": 0,
+        "near_limit": 0
+      }
+    ]
+  },
+  "completed": true,
+  "remaining_posts": 0
+}

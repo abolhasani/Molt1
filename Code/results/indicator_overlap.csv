@@ -1,0 +1,9 @@
+AttachmentIntimacy,ReplySeekingReciprocity,SelfIdentificationToOP,count,rate
+False,False,False,37206,0.7391235249711947
+False,True,False,12168,0.2417259326949819
+True,True,False,393,0.007807223171361595
+False,True,True,343,0.006813937780603123
+True,False,False,112,0.002224959275298979
+False,False,True,89,0.0017680479955500814
+True,True,True,20,0.0003973141563033891
+True,False,True,7,0.00013905995470618618
