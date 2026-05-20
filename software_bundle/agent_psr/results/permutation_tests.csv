@@ -1,4 +1,0 @@
-indicator,outcome,observed_rate_diff,p_value_permutation_two_sided,iterations
-AttachmentIntimacy,ReceivedAnyReply,0.021127840683506136,0.1437125748502994,500
-ReplySeekingReciprocity,ReceivedAnyReply,0.03365330948514101,0.001996007984031936,500
-SelfIdentificationToOP,ReceivedAnyReply,0.04536525232020095,0.001996007984031936,500
